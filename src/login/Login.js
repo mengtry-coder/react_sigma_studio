@@ -18,8 +18,8 @@ export class Login extends Component {
 					onFinish={onFinish}
 					onFinishFailed={onFinishFailed}
 				>
-					Username: <input placeholder="Username" />
-					Password: <input placeholder="Password" />
+					Usernamea: <input placeholder="Username" />
+					Passworda: <input placeholder="Password" />
 				</form>
 				<Button type="primary" style={{ marginLeft: 8 }}>
 					Login
